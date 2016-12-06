@@ -1,4 +1,4 @@
-FROM busybox
+FROM pylam/fedora:mybusybox
 
 MAINTAINER Gentoo Docker Team
 
